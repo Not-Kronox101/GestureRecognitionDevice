@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/Users/bat-ulziipurev-ochir/VS/pico_inference/build/CMakeFiles/picotoolBuild
+/Users/bat-ulziipurev-ochir/VS/pico_inference/build/CMakeFiles/picotoolBuild.rule
+/Users/bat-ulziipurev-ochir/VS/pico_inference/build/CMakeFiles/picotoolBuild-complete.rule
+/Users/bat-ulziipurev-ochir/VS/pico_inference/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/Users/bat-ulziipurev-ochir/VS/pico_inference/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/Users/bat-ulziipurev-ochir/VS/pico_inference/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/Users/bat-ulziipurev-ochir/VS/pico_inference/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/Users/bat-ulziipurev-ochir/VS/pico_inference/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/Users/bat-ulziipurev-ochir/VS/pico_inference/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/Users/bat-ulziipurev-ochir/VS/pico_inference/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/Users/bat-ulziipurev-ochir/VS/pico_inference/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule
