@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.13)
 
-set(PICO_SDK_PATH "/Users/bat-ulziipurev-ochir/VS/pico_inference/pico-sdk")
+# Change the PICO_SDK_PATH according to your own path
+set(PICO_SDK_PATH "/path to you pico-sdk/pico-sdk")
 include(${PICO_SDK_PATH}/external/pico_sdk_import.cmake)
 
 project(pico_inference C CXX)
